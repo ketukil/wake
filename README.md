@@ -1,2 +1,2 @@
-# wake
-Keep your machine from sleeping using Python
+# Snorelix
+This very nice piece of code keeps your machine wide awake while you are doing important work
